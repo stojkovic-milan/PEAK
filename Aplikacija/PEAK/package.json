@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@fortawesome/react-fontawesome": "^0.1.18",
+    "axios": "^0.27.2",
+    "moment": "^2.29.3",
+    "react-loading": "^2.0.3"
+  }
+}

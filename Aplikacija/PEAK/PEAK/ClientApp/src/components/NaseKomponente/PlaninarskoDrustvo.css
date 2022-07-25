@@ -1,0 +1,30 @@
+.pdnaziv
+{
+    padding:10px;
+    display:flex;
+    flex-direction: column;
+    align-items: left;
+}
+.informacije
+{
+    /* background-color: #FF1654; */
+    color:black;
+    margin: 10px;
+    align-items: center;
+}
+.btn-dugme
+{
+    display: flex;
+    flex-grow: 0;
+    justify-content: center;
+    margin-top: 10px;
+    size:1.2em;
+}
+.ttn
+{
+    text-transform: none;
+}
+.ruteselekt
+{
+    width:100%;
+}
